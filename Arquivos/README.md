@@ -14,3 +14,4 @@ Abra o arquivo index.html no navegador.
 5. Aguardar revisao do code owner.
 6. Fazer ajustes se necessario.
 7. Fazer merge somente apos aprovacao.
+THÉO MEZZOMO DE LIMA - MURILO MIGLIORANZA - LUIZ FIORENTIN - CARLOS KAIKY - KAUAN ARENDT DA ROCHA
